@@ -1,12 +1,12 @@
 # Hi👋, I’m Noura Tarek
 
-### Data Analyst | SQL • Excel • Power BI | ML & Data Science Enthusiast
+## Data Analyst | SQL • Excel • Power BI | ML & Data Science Enthusiast
 
 I’m a data analyst focused on transforming data into clear, practical insights.
 I enjoy working with analytical tools and exploring how machine learning can support smarter, more informed decision-making.
 
 #
-🚀 Tools & Technologies
+### 🚀 Tools & Technologies
 <p align="left"> <img src="https://skillicons.dev/icons?i=python" width="45px" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px" />&nbsp; <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="45px" />&nbsp; <img src="https://img.icons8.com/color/48/power-bi.png" width="45px" />&nbsp; <img src="https://skillicons.dev/icons?i=git" width="45px" />&nbsp; </p>
 
 SQL – querying and building structured data models
@@ -18,7 +18,7 @@ Power BI – interactive reporting and visual analytics
 Python – improving skills in data science & ML workflows
 
 #
-🔍 Interests
+### 🔍 Interests
 
 Data science & machine learning
 
