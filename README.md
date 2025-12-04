@@ -24,21 +24,19 @@ Predictive analytics
 Building smarter decision-support tools
 
 <!--
-📂 Projects
-📌 Sales Performance Dashboard
+## 📂 Projects
 
-Tools: Power BI, SQL
-A full business dashboard showing sales trends, top categories, and regional performance.
+### 📌 [Sales Performance Dashboard](YOUR_LINK_HERE)
+**Tools:** Power BI, SQL  
+A full business dashboard showing sales trends, top categories, and regional performance.  
 Focus on clean visuals, DAX measures, and interactive filtering.
 
-📌 Data Cleaning Automation
-
-Tools: Python, Excel
+### 📌 [Data Cleaning Automation](YOUR_LINK_HERE)
+**Tools:** Python, Excel  
 A script that standardizes and cleans raw datasets, handles missing values, and exports cleaned reports automatically.
 
-📌 Customer Churn Analysis
-
-Tools: Python, pandas, scikit-learn
+### 📌 [Customer Churn Analysis](YOUR_LINK_HERE)
+**Tools:** Python, pandas, scikit-learn  
 Exploratory analysis and basic ML modeling to understand factors behind customer churn.
 -->
 <!--
