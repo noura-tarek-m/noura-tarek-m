@@ -1,6 +1,6 @@
-Hi👋, I’m Noura Tarek
+# Hi👋, I’m Noura Tarek
 
-Data Analyst | SQL • Excel • Power BI | ML & Data Science Enthusiast
+### Data Analyst | SQL • Excel • Power BI | ML & Data Science Enthusiast
 
 I’m a data analyst focused on transforming data into clear, practical insights.
 I enjoy working with analytical tools and exploring how machine learning can support smarter, more informed decision-making.
