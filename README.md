@@ -42,7 +42,9 @@ A script that standardizes and cleans raw datasets, handles missing values, and 
 Tools: Python, pandas, scikit-learn
 Exploratory analysis and basic ML modeling to understand factors behind customer churn.
 -->
+<!--
 #
 ### 📫 Let's Connect
 
 <p align="left"> <a href="https://www.linkedin.com/in/noura-tarek-alamin" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="mailto:noura.tarek.m@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+-->
