@@ -4,7 +4,6 @@
 
 I’m a data analyst focused on transforming data into clear, practical insights.
 I enjoy working with analytical tools and exploring how machine learning can support smarter, more informed decision-making.
-
 #
 ### 🚀 Tools & Technologies
 <p align="left"> <img src="https://skillicons.dev/icons?i=python" width="45px" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px" />&nbsp; <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="45px" />&nbsp; <img src="https://img.icons8.com/color/48/power-bi.png" width="45px" />&nbsp; <img src="https://skillicons.dev/icons?i=git" width="45px" />&nbsp; </p>
@@ -17,7 +16,6 @@ Power BI – interactive reporting and visual analytics
 
 Python – improving skills in data science & ML workflows
 
-#
 ### 🔍 Interests
 
 Data science & machine learning
@@ -43,10 +41,7 @@ A script that standardizes and cleans raw datasets, handles missing values, and 
 
 Tools: Python, pandas, scikit-learn
 Exploratory analysis and basic ML modeling to understand factors behind customer churn.
-
-📫 Contact
-
-LinkedIn: add your link
-
-Email: add your email
 -->
+### 📫 Contact Me
+
+<p align="left"> <a href="https://www.linkedin.com/in/noura-tarek-alamin" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="mailto:noura.tarek.m@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
